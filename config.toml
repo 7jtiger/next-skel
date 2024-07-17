@@ -1,0 +1,16 @@
+[database]
+host = "localhost"
+user = "root"
+password = "password"
+database = "mydb"
+
+[redis]
+host = "localhost"
+port = 6379
+
+[jwt]
+secret = "your-secret-key"
+expiresIn = "1h"
+
+[log]
+level = "info"
