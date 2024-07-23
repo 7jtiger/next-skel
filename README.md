@@ -1,4 +1,4 @@
-**Skelton - Code**
+#Skelton - Code
 
 설치
 먼저, 패키지를 설치해주세요:
